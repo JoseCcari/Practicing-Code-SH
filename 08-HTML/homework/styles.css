@@ -1,0 +1,35 @@
+html{
+    /*color: red;  "Color" es la propiedad y "red" el valor */
+  font-size: 12px; /* "font-size" es la propiedad y "12px" el valor */
+  background-image: url("https://cdn.pixabay.com/photo/2021/12/11/07/59/hotel-6862159__340.jpg");
+  display: flex; /* Centrar */
+  justify-content: center; 
+}
+h1{
+    color: coral;
+}
+img {
+    width: 400px;
+}
+
+/*div{
+    display: flex; /* Centrar 
+    justify-content: center; } */
+
+.divClass{
+    height: 600px;
+    width: 500;
+    /*background-color: aquamarine;*/
+    
+}
+
+#spanId{
+    font-size: 22px;
+    margin: 50px;
+}
+#thirdDiv {
+    padding: 50px;
+    border-radius: 2px;
+    border-width: 5px;
+    border-color: crimson;
+}
